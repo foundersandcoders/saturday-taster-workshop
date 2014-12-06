@@ -1,14 +1,25 @@
+body {
+  background-color: #ffffcc;
+}
+
 h1 {
-  color: ;
-  background-color: ;
-  font-size: ;
+  font-size: 60px;
+  text-align: center;
+  font-family: serif;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: center;
+  font-family: serif;
+  font-style: italic;
 }
 
 p {
-  font-weight: ;
-  text-align: ;
+  font-family: serif;
 }
 
-.flexslider .slides {
-  
+.slides img {
+  height: auto;
+  width: 100%;
 }

@@ -15,5 +15,5 @@ p {
 }
 @font-face{
     font-family: "Starjedi";
-    src: url('Starjedi.ttf');
+    src: url('../Starjedi.ttf');
 }

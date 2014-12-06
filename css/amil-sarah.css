@@ -1,0 +1,60 @@
+h1 {
+  color: #00CC00;
+  background-color: ;
+  font-size: ;
+  font-weight: bold;
+  font-family: Zapfino;
+}
+
+h3 {
+  color: #00CC00;
+  background-color: ;
+  font-size: ;
+  font-weight: bold;
+  font-family: Apple Chancery;
+}
+
+body {
+  background-image: url("http://i.imgur.com/gcMnOei.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#seal {
+    border-style: solid;
+    border-color: #00BFFF;
+    border-width:7px;
+    padding: 0px;
+}
+
+#cat {
+    border-style: groove;
+    border-color: #9932CC;
+    border-width:7px;
+    padding: 0px;
+}
+
+
+#elephant {
+    border-style: solid;
+    border-color: #FFD700;
+    border-width:7px;
+    padding: 0px;
+}
+
+
+
+p {
+  color: #00CC00;
+  font-size: 20px;
+  font-weight: ;
+  text-align: ;
+  font-family: Apple Chancery;
+}
+
+button {
+  background-color:#2F4F4F;
+  color: #00CC00;
+  align: center;
+  font-weight:bold;
+}

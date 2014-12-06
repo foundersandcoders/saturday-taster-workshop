@@ -1,4 +1,5 @@
 # Site settings
+host: 0.0.0.0
 title: Founders & Coders - Taster day
 host: 0.0.0.0
 email: contact@foundersandcoders.org
@@ -8,3 +9,4 @@ description: > # this means to ignore newlines until "baseurl:"
   are under-represented in the tech industry. There are no formal 
   educational requirements; our selections are made on aptitude, 
   work ethic and desire to have a positive impact on the world.
+

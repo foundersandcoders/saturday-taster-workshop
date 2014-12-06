@@ -6,9 +6,9 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 06 Dec 2014 14:34:44 +0000</pubDate>
-    <lastBuildDate>Sat, 06 Dec 2014 14:34:44 +0000</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Sat, 06 Dec 2014 16:05:28 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2014 16:05:28 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -40,6 +40,65 @@ clone the repository on your local machine (in you case nitrous).&lt;/p&gt;
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Furries</title>
+        <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;F&amp;C Taster Day&lt;/title&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width initial-scale=1&quot; /&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css&quot;&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/css/Furries.css&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      
+      &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;h1&gt;CUTE &amp; FURRIES&lt;/h1&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm-6col-md-6&quot;&gt;
+      &lt;p&gt;Have you SEEN our little lovelies?&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm-6 col-md-6&quot;&gt;
+      &lt;p&gt;&lt;/p&gt;
+      
+    &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      
+      &lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+        &lt;h3&gt;Which one is your favourite Furry?&lt;/h3&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;col-md-4&quot; id='cat'&gt;
+      &lt;img class=&quot;img-responsive&quot; src=&quot;http://i.imgur.com/eStYXFC.jpg&quot; alt=&quot;&quot;&gt;
+        &lt;div class=&quot;caption&quot;&gt; &lt;p&gt; Hello! My name is Pospsy Kitten! &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;col-md-4&quot; id='dog'&gt;
+        &lt;img class=&quot;img-responsive&quot; src=&quot;http://i.imgur.com/MsRQoHd.jpg?1&quot; alt=&quot;&quot;&gt;
+        &lt;div class=&quot;caption&quot;&gt; &lt;p&gt; Hello! My name is Diggity Dog! &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;col-md-4&quot;&gt;
+        &lt;img class=&quot;img-responsive&quot; src=&quot;http://i.imgur.com/9FC5NEW.jpg&quot; alt=&quot;&quot;&gt;
+        &lt;div class=&quot;caption&quot;&gt; &lt;p&gt; Hello! My name is Sheba The Queen of Cats! &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+        <pubDate>Sat, 06 Dec 2014 00:00:00 +0000</pubDate>
+        <link>/2014/12/06/Furries.html</link>
+        <guid isPermaLink="true">/2014/12/06/Furries.html</guid>
+        
         
       </item>
     

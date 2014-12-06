@@ -1,5 +1,6 @@
 # Site settings
 title: Founders & Coders - Taster day
+host: 0.0.0.0
 email: contact@foundersandcoders.org
 description: > # this means to ignore newlines until "baseurl:"
   We value diversity. We aim to have a balance of men and women 
